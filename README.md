@@ -1,4 +1,7 @@
-# Escape_roomStory You are a person with a daughter named Lena. You are picking up your daughter from school one day. once you've parked your car on a nearby school street. Before entering the school, you are crossing the street. then something happened that you weren't aware of. You awaken in an old room. In the dark. It has a large entrance with a pin-pad password. You want to leave this location and find Lena.
+# Escape_room
+
+Story 
+You are a person with a daughter named Lena. You are picking up your daughter from school one day. once you've parked your car on a nearby school street. Before entering the school, you are crossing the street. then something happened that you weren't aware of. You awaken in an old room. In the dark. It has a large entrance with a pin-pad password. You want to leave this location and find Lena.
 
 tutorial On menu
 
