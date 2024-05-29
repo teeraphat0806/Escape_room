@@ -15,5 +15,5 @@ press "q" to open gas stove and quit seeing something.
 press "number on numpad" to fill password.
 press "Backspace" to delete password.
 This game have 3 room to escape.There is a timer in each room that indicates when you can exit.
-
+after exit all room u will find out reality.
 I make this game for month. Creating by using java. This game is making without Game engine.
